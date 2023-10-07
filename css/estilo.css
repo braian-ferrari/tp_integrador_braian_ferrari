@@ -243,7 +243,8 @@ ul {
     header {
         width: 100%;
     }
-    main{
+
+    main {
         width: 100%;
     }
 
@@ -417,10 +418,12 @@ ul {
         flex-direction: column;
         justify-content: space-around;
     }
-    form{
+
+    form {
         width: 80%;
     }
 }
+
 @media (min-width: 577px) and (max-width: 768px) {
     body {
         width: 100%;
@@ -432,7 +435,8 @@ ul {
     header {
         width: 100%;
     }
-    main{
+
+    main {
         width: 100%;
     }
 
@@ -473,7 +477,7 @@ ul {
         width: 400px;
         position: relative;
         bottom: 240px;
-        left:300px;
+        left: 300px;
         color: white;
         font-size: small;
     }
@@ -598,7 +602,8 @@ ul {
         bottom: 80px;
         left: 50px;
     }
-    .texthelp{
+
+    .texthelp {
         position: relative;
         left: 50px;
     }
@@ -615,10 +620,12 @@ ul {
         flex-direction: column;
         justify-content: space-around;
     }
-    form{
+
+    form {
         width: 80%;
     }
 }
+
 @media (min-width: 769px) and (max-width: 992px) {
     body {
         width: 100%;
@@ -630,7 +637,8 @@ ul {
     header {
         width: 100%;
     }
-    main{
+
+    main {
         width: 100%;
     }
 
@@ -796,7 +804,8 @@ ul {
         bottom: 80px;
         left: 50px;
     }
-    .texthelp{
+
+    .texthelp {
         position: relative;
         left: 50px;
     }
@@ -813,10 +822,12 @@ ul {
         flex-direction: column;
         justify-content: space-around;
     }
-    form{
+
+    form {
         width: 80%;
     }
 }
+
 @media (min-width: 993px) and (max-width: 1200px) {
     body {
         width: 100%;
@@ -828,7 +839,8 @@ ul {
     header {
         width: 100%;
     }
-    main{
+
+    main {
         width: 100%;
     }
 
@@ -994,7 +1006,8 @@ ul {
         bottom: 80px;
         left: 50px;
     }
-    .texthelp{
+
+    .texthelp {
         position: relative;
         left: 50px;
     }
@@ -1011,7 +1024,8 @@ ul {
         flex-direction: column;
         justify-content: space-around;
     }
-    form{
+
+    form {
         width: 80%;
     }
 }
