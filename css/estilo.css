@@ -252,7 +252,7 @@ ul {
         width: 100px;
         position: relative;
         bottom: 200px;
-        left: 380px;
+        left: 300px;
         color: white;
         font-size: medium;
     }
@@ -264,55 +264,55 @@ ul {
     }
 
     .textoimg1 {
-        width: 420px;
+        width: 410px;
         position: relative;
         bottom: 200px;
-        left: 55px;
+        left: 15px;
         color: white;
         font-size: small;
     }
 
     .textoimg2 {
-        width: 420px;
+        width: 405px;
         position: relative;
         bottom: 220px;
-        left: 57px;
+        left: 18px;
         color: white;
         font-size: small;
     }
 
     .textoimg3 {
-        width: 400px;
+        width: 385px;
         position: relative;
         bottom: 240px;
-        left: 75px;
+        left: 38px;
         color: white;
         font-size: small;
     }
 
     .textoimg4 {
-        width: 400px;
+        width: 395px;
         position: relative;
         bottom: 260px;
-        left: 65px;
+        left: 27px;
         color: white;
         font-size: small;
     }
 
     .textoimg5 {
-        width: 250px;
+        width: 235px;
         position: relative;
         bottom: 280px;
-        left: 220px;
+        left: 185px;
         color: white;
         font-size: small;
     }
 
     .buttonsimg {
-        width: 250px;
+        width: 220px;
         position: relative;
         bottom: 280px;
-        left: 220px;
+        left: 200px;
         color: white;
         font-size: small;
     }
@@ -342,12 +342,12 @@ ul {
     }
 
     .sectionmain {
-        width: 400px;
+        width: 300px;
         display: flex;
         justify-content: center;
         position: relative;
         bottom: 180px;
-        left: 100px;
+        left: 55px;
         gap: 10px;
     }
 
@@ -377,6 +377,7 @@ ul {
         margin-top: 30px;
         position: relative;
         bottom: 150px;
+        left: 20px;
     }
 
     .textoform {
@@ -390,11 +391,13 @@ ul {
         margin-top: 30px;
         position: relative;
         bottom: 50px;
+        left: 20px;
     }
 
     .texarea {
         width: 300px;
         position: relative;
+        left: 20px;
     }
 
     .botonverde {
@@ -404,6 +407,7 @@ ul {
         margin-bottom: 30px;
         position: relative;
         bottom: 80px;
+        left: 20px;
     }
 
     footer {
@@ -1029,3 +1033,4 @@ ul {
         width: 80%;
     }
 }
+
