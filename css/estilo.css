@@ -244,6 +244,9 @@ ul {
 .lifooter {
     margin-top: 30px;
 }
+.ignite{
+    border-bottom: gray dotted 2px;
+}
 
 @media (max-width: 576px) {
     body {
