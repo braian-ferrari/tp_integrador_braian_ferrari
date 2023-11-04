@@ -16,7 +16,7 @@
     color: white;
 }
 
-h1 {
+.indexh1 {
     width: 200px;
     position: relative;
     bottom: 500px;
@@ -244,8 +244,164 @@ ul {
 .lifooter {
     margin-top: 30px;
 }
-.ignite{
+
+.ignite {
     border-bottom: gray dotted 2px;
+}
+
+.containazul {
+    border: blue solid 2px;
+    border-radius: 5px;
+    width: 250px;
+    height: 200px;
+    position: relative;
+    right: -250px;
+    bottom: -30px;
+}
+
+.containceleste {
+    border: lightblue solid 2px;
+    border-radius: 5px;
+    width: 250px;
+    height: 200px;
+    position: relative;
+    right: -70px;
+    bottom: -30px;
+}
+
+.containamarillo {
+    border: yellow solid 2px;
+    border-radius: 5px;
+    width: 250px;
+    height: 200px;
+    position: relative;
+    left: -110px;
+    bottom: -30px;
+}
+
+.titcontes {
+    font-size: 20px;
+    font-weight: 600;
+    position: relative;
+    left: 80px;
+    top: 15px;
+    bottom: -30px;
+}
+
+.titcontra {
+    font-size: 20px;
+    font-weight: 600;
+    position: relative;
+    left: 95px;
+    top: 15px;
+}
+
+.titcontju {
+    font-size: 20px;
+    font-weight: 600;
+    position: relative;
+    left: 95px;
+    top: 15px;
+}
+
+.descuento {
+    font-size: 18px;
+    position: relative;
+    left: 45px;
+    top: 15px;
+}
+
+.porcentaje {
+    font-size: 20px;
+    font-weight: bolder;
+    position: relative;
+    left: 105px;
+    top: 15px;
+}
+
+.documentacion {
+    font-size: 16px;
+    font-weight: 200;
+    color: gray;
+    position: relative;
+    left: 25px;
+    top: 15px;
+}
+
+.Venta {
+    text-align: center;
+    position: relative;
+    bottom: -50px;
+}
+
+.titicket {
+    text-align: center;
+    position: relative;
+    bottom: -50px;
+}
+
+.InputCorreo {
+    align-items: center;
+    width: 43%;
+    position: relative;
+    right: -550px;
+    top: -80px;
+}
+
+.CantidadForm {
+    position: relative;
+    right: -560px;
+    top: -65px
+}
+
+.EstudianteForm {
+    position: relative;
+    right: -915px;
+    top: -65px
+}
+
+.inputCant {
+    position: relative;
+    top: -140px;
+    width: 400px;
+}
+.select{
+    position: relative;
+    width: 400px;
+    top: -140px;
+    right: -20px;
+    height: 40px;
+    
+}
+.ContainerPagar{
+    position: relative;
+    top: -200px;
+    right: -550px;
+    background-color: lightblue;
+    width: 820px;
+    height: 100px;
+    padding-top: 35px ;
+    padding-left: 20px;
+    border-radius: 5px;
+    color: rgb(0, 118, 187);
+}
+.botonBorrar{
+    width: 400px;
+    background-color: rgba(160, 238, 44, 0.863);
+    border: none;
+    margin-bottom: 30px;
+    position: relative;
+    top: -150px;
+    left: -190px;
+}
+.botonResumen{
+    width: 400px;
+    background-color: rgba(160, 238, 44, 0.863);
+    border: none;
+    margin-bottom: 30px;
+    position: relative;
+    top: -226px;
+    right: -220px;
 }
 
 @media (max-width: 576px) {
@@ -645,4 +801,3 @@ ul {
         width: 80%;
     }
 }
-
