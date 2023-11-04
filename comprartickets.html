@@ -98,9 +98,9 @@
                 </div>
                 <div class="mb-3">
                     <select class="form-select select" aria-label="Default select example">
-                        <option selected>Estudiante</option>
-                        <option value="1">Trainee</option>
-                        <option value="2">Junior</option>
+                        <option for="valor1" value="1" selected>Estudiante</option>
+                        <option for="valor2" value="2">Trainee</option>
+                        <option for="valor3" value="3">Junior</option>
                     </select>
                 </div>
             </div>
@@ -111,7 +111,7 @@
                 <button type="button" class="btn btn-secondary btn-lg botonBorrar">Borrar</button>
             </div>
             <div class="botonformulario">
-                <button type="button" class="btn btn-secondary btn-lg botonResumen">Resumen</button>
+                <button type="button" class="btn btn-secondary btn-lg botonResumen" onclick="estudiante()">Resumen</button>
             </div>
 
         </form>
@@ -130,6 +130,7 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm"
         crossorigin="anonymous"></script>
+        <script src="operadores.js"></script>
 </body>
 
 </html>
